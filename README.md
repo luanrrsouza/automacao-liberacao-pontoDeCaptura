@@ -1,3 +1,3 @@
-Hello, how are you?
+Olá, tudo bem?
 
-I work for a company that resells TEF PayGo, and one of the procedures we do daily is the activation of capture points (necessary when the machine is formatted, or the client is going to change the machine's register). Although it is a simple procedure, it is repetitive. To make my job easier and optimize my time, I developed this automation which, by just copying the capture point number, accesses the portal where the activation is done, activates the point, and provides feedback to the partner via Discord.
+Eu trabalho para uma empresa que revende TEF PayGo, e um dos procedimentos que realizamos diariamente é a ativação de pontos de captura (necessária quando a máquina é formatada, ou o cliente vai trocar o cadastro da máquina). Embora seja um procedimento simples, ele é repetitivo. Para facilitar meu trabalho e otimizar meu tempo, desenvolvi essa automação que, ao copiar o número do ponto de captura, acessa o portal onde a ativação é feita, ativa o ponto e fornece um retorno ao parceiro via Discord.
